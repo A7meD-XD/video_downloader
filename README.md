@@ -47,7 +47,7 @@
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/video-downloader.git
+git clone https://github.com/A7meD-XD/video-downloader.git
 cd video-downloader
 ```
 
