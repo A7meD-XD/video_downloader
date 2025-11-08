@@ -236,9 +236,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter)
+Your Name - [@A7meDX](https://www.youtube.com/@A7meDX)
 
-Project Link: [https://github.com/yourusername/video-downloader](https://github.com/yourusername/video-downloader)
+Project Link: [https://github.com/A7meD-XD/video_downloader](https://github.com/yourusername/video-downloader)
 
 ---
 
