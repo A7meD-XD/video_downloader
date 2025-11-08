@@ -115,13 +115,13 @@ The application will guide you through:
 <div align="center">
 
 ### Main Menu
-![Main Menu](https://via.placeholder.com/800x400/1a1a1a/00ff00?text=Beautiful+CLI+Interface)
+![Main Menu](screenshots/main-menu.png)
 
 ### Download Progress
-![Progress](https://via.placeholder.com/800x200/1a1a1a/00ffff?text=Real-time+Progress+Tracking)
+![Progress](screenshots/progress.png)
 
 ### Success Message
-![Success](https://via.placeholder.com/800x200/1a1a1a/00ff00?text=Download+Complete)
+![Success](screenshots/success.png)
 
 </div>
 
